@@ -1,5 +1,5 @@
 # xiaomi-nabu-sm8150-mainline
-Latest stable mainline kernel 6.1.10 xiaomi pad 5 (nabu) patches
+Latest stable mainline kernel 6.1.10 patches for xiaomi pad 5 (nabu)
 
 [![download](https://img.shields.io/github/downloads/serdeliuk/xiaomi-nabu-sm8150-mainline/total)](https://github.com/serdeliuk/xiaomi-nabu-sm8150-mainline/releases/download/6.1.10/xiaomi-nabu-sm8150-mainline.6.1.10.tar)
 
